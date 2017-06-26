@@ -117,9 +117,7 @@ for file_name in log_files:
         [wtr.writerow(line) for line in data]
     csv_output.close()
 
-print "\n\nPrinting usages for each feature\n" + "="*32 + '\n'
-for key in sorted(usage.keys()):
-    print "Feature %-25s:  %d" % (key, usage[key])
-
-print("\n\n")
+#     print "\n\nPrinting usages for each feature\n" + "="*32 + '\n'
+#     for key in sorted(usage.keys()):
+#         print "Feature %-25s:  %d" % (key, usage[key])
 
