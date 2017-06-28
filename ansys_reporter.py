@@ -107,7 +107,7 @@ def process_ansys():
                         #
                         # We do this at checkout and checkin
 
-                        feature_count_key = '{:12s}: {:>4d}'.format(feature, usage[feature])
+                        feature_count_key = '{}:{:03d}'.format(feature, usage[feature])
                         cum_usage[feature_count_key] += usage[feature]
 
                     # We are checking in license(s)
@@ -123,7 +123,7 @@ def process_ansys():
                             usage[feature] = 0
 
                         # Update the cumulative usage counts
-                        feature_count_key = '{:12s}: {:>4d}'.format(feature, usage[feature])
+                        feature_count_key = '{}:{:03d}'.format(feature, usage[feature])
                         cum_usage[feature_count_key] += usage[feature]
 
                     # End feature processing
@@ -171,19 +171,20 @@ def process_ansys():
 if __name__ == '__main__':
 
     data, cum_usage = process_ansys()
-    print("{}       ".format("Feature    Used", "Occurrences"))
     print("="*40)
     last_key = ''
     for usage in sorted(cum_usage.keys()):
-        # Need to split the key on the colon and compare the value of the
-        # feature name only.
-        #
-        if usage == last_key:
-            print("{}   {:>4d}".format(usage, cum_usage[usage]))
-            last_key = usage
+        # Feature name and count were stored colon separated
+        feature, count = usage.split(':')
+        count = int(count)
+        if feature == last_key:
+            print("{:20}{:>6d}{:>14d}".format(feature, count, cum_usage[usage]))
+            last_key = feature
         else:
-            print("{}{}".format(40*'-', "\n"))
-            print("{}   {:>4d}".format(usage, cum_usage[usage]))
-            last_key = usage
+            print("{}".format(40*'-'))
+            print("\n{:20}{:>6s}{:>14s}     ".format("Feature", "Used", "Occurrences"))
+            print("{}".format(40*'-'))
+            print("{:20}{:>6d}{:>14d}".format(feature, count, cum_usage[usage]))
+            last_key = feature
     print("="*40)
 
