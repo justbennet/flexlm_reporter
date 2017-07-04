@@ -1,0 +1,515 @@
+lmstat - Copyright (c) 1989-2014 Flexera Software LLC. All Rights Reserved.
+Flexible License Manager status on Tue 7/4/2017 08:31
+
+License server status: 1709@flux-license1.miserver.it.umich.edu
+    License file(s) on flux-license1.miserver.it.umich.edu: /var/flux/license.d/matlab/../matlab/license.dat:
+
+flux-license1.miserver.it.umich.edu: license server UP (MASTER) v11.14.0
+
+Vendor daemon status (on flux-license1.miserver.it.umich.edu):
+
+       MLM: UP v11.14.0
+Feature usage info:
+
+Users of MATLAB_Distrib_Comp_Engine:  (Total of 600 licenses issued;  Total of 48 licenses in use)
+
+  "MATLAB_Distrib_Comp_Engine" v37, vendor: MLM, expiry: 01-jan-0000
+  floating license
+
+    anwebha nyx6106.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 28676), start Thu 6/29 16:44
+    anwebha nyx6106.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 79165), start Thu 6/29 16:44
+    anwebha nyx6106.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 16540), start Thu 6/29 16:44
+    anwebha nyx6106.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 58430), start Thu 6/29 16:44
+    anwebha nyx6106.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 71948), start Thu 6/29 16:44
+    anwebha nyx5989.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 95357), start Thu 6/29 16:44
+    anwebha nyx5989.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 51736), start Thu 6/29 16:44
+    anwebha nyx5989.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 13185), start Thu 6/29 16:44
+    anwebha nyx5989.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 75259), start Thu 6/29 16:44
+    anwebha nyx5989.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 56619), start Thu 6/29 16:44
+    anwebha nyx5989.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 86738), start Thu 6/29 16:44
+    anwebha nyx5989.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 69867), start Thu 6/29 16:44
+    anwebha nyx5989.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 41250), start Thu 6/29 16:44
+    anwebha nyx6105.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 78719), start Thu 6/29 16:44
+    anwebha nyx6105.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 49960), start Thu 6/29 16:44
+    anwebha nyx6105.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 66235), start Thu 6/29 16:44
+    anwebha nyx6105.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 51645), start Thu 6/29 16:44
+    anwebha nyx6105.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 74426), start Thu 6/29 16:44
+    anwebha nyx6105.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 77686), start Thu 6/29 16:44
+    anwebha nyx6105.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 65692), start Thu 6/29 16:44
+    anwebha nyx6105.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 16653), start Thu 6/29 16:44
+    anwebha nyx6105.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 96287), start Thu 6/29 16:44
+    anwebha nyx6105.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 26076), start Thu 6/29 16:44
+    anwebha nyx6105.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 94575), start Thu 6/29 16:44
+    anwebha nyx6105.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 51816), start Thu 6/29 16:44
+    anwebha nyx6105.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 93457), start Thu 6/29 16:44
+    anwebha nyx6105.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 1223), start Thu 6/29 16:44
+    anwebha nyx6105.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 11665), start Thu 6/29 16:44
+    anwebha nyx6105.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 8418), start Thu 6/29 16:44
+    anwebha nyx6105.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 39728), start Thu 6/29 16:44
+    anwebha nyx6105.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 81219), start Thu 6/29 16:44
+    anwebha nyx6105.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 47930), start Thu 6/29 16:44
+    anwebha nyx6001.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 74356), start Thu 6/29 16:44
+    anwebha nyx6001.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 18890), start Thu 6/29 16:44
+    anwebha nyx6001.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 67358), start Thu 6/29 16:44
+    anwebha nyx6001.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 84493), start Thu 6/29 16:44
+    anwebha nyx6001.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 18946), start Thu 6/29 16:44
+    anwebha nyx6001.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 7539), start Thu 6/29 16:44
+    anwebha nyx6001.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 67567), start Thu 6/29 16:44
+    anwebha nyx6001.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 53135), start Thu 6/29 16:44
+    anwebha nyx6001.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 73241), start Thu 6/29 16:44
+    anwebha nyx6001.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 61128), start Thu 6/29 16:44
+    anwebha nyx6001.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 36447), start Thu 6/29 16:44
+    anwebha nyx6001.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 10387), start Thu 6/29 16:44
+    anwebha nyx6001.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 36048), start Thu 6/29 16:44
+    anwebha nyx6001.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 55717), start Thu 6/29 16:44
+    anwebha nyx6001.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 55652), start Thu 6/29 16:44
+    anwebha nyx6001.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 17534), start Thu 6/29 16:44
+
+Users of MATLAB:  (Total of 10000 licenses issued;  Total of 107 licenses in use)
+
+  "MATLAB" v37, vendor: MLM, expiry: 31-jan-2018
+  floating license
+
+    berent bbox5 /dev/pts/21 (v34) (flux-license1.miserver.it.umich.edu/1709 9615), start Fri 6/16 4:35
+    jiyuezhu nyx1069.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 38813), start Sun 7/2 21:43
+    jiahuagu nyx6092.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 17819), start Mon 6/19 11:39
+    hjassar bbox8 /dev/pts/13 (v34) (flux-license1.miserver.it.umich.edu/1709 88874), start Fri 6/30 4:56
+    jiyuezhu nyx1071.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 50657), start Sun 7/2 21:28
+    jiahuagu nyx6127.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 68603), start Tue 6/27 3:08
+    chrono nyx6252.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 42622), start Wed 6/28 10:36
+    jiahuagu nyx6224.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 48125), start Thu 6/29 16:02
+    anwebha nyx5989.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 25545), start Thu 6/29 16:43
+    jiyuezhu nyx1068.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 12775), start Sun 7/2 23:45
+    jiahuagu nyx6221.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 22514), start Fri 6/30 8:05
+    ayttred bbox5 /dev/pts/9 (v34) (flux-license1.miserver.it.umich.edu/1709 72668), start Fri 6/30 14:52
+    timtu nyx6166.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 76870), start Mon 7/3 11:31
+    jiahuagu nyx6132.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 43533), start Sun 7/2 8:24
+    amandarg nyx6211.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 74273), start Sun 7/2 21:54
+    najariac nyx5230.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 91463), start Mon 7/3 10:52
+    najariac nyx5234.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 14962), start Mon 7/3 10:52
+    najariac nyx5232.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 37111), start Mon 7/3 10:52
+    najariac nyx5231.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 83173), start Mon 7/3 10:52
+    najariac nyx5235.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 7163), start Mon 7/3 10:52
+    najariac nyx5233.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 11966), start Mon 7/3 10:52
+    najariac nyx5236.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 77341), start Mon 7/3 10:52
+    thuanhsi nyx6184.arc-ts.umich.edu /dev/pts/1 (v35) (flux-license1.miserver.it.umich.edu/1709 9340), start Mon 7/3 11:19
+    najariac nyx5578.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 100458), start Mon 7/3 11:37
+    najariac nyx5577.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 21153), start Mon 7/3 12:20
+    asank bbox5 /dev/pts/3 (v34) (flux-license1.miserver.it.umich.edu/1709 74959), start Mon 7/3 15:56
+    njchen nyx6158.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 917), start Mon 7/3 17:50
+    timtu nyx6224.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 29286), start Tue 7/4 2:10
+    timtu nyx6216.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 84754), start Tue 7/4 2:19
+    timtu nyx6163.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 100265), start Tue 7/4 3:09
+    timtu nyx6155.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 93781), start Tue 7/4 4:43
+    timtu nyx6139.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 78251), start Tue 7/4 3:03
+    timtu nyx6220.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 83341), start Tue 7/4 4:04
+    timtu nyx6150.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 93086), start Tue 7/4 4:10
+    timtu nyx6140.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 21705), start Tue 7/4 4:25
+    timtu nyx6165.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 9882), start Tue 7/4 4:26
+    timtu nyx6152.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 96561), start Tue 7/4 4:33
+    wangst nyx6127.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 95166), start Tue 7/4 4:46
+    wangst nyx6132.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 60587), start Tue 7/4 4:47
+    wangst nyx6135.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 86952), start Tue 7/4 4:47
+    wangst nyx6145.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 35001), start Tue 7/4 4:49
+    wangst nyx6133.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 70830), start Tue 7/4 4:49
+    wangst nyx6150.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 50040), start Tue 7/4 4:49
+    wangst nyx6147.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 35273), start Tue 7/4 4:51
+    wangst nyx6148.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 13279), start Tue 7/4 4:54
+    wangst nyx6128.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 76265), start Tue 7/4 4:56
+    wangst nyx6140.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 76050), start Tue 7/4 4:56
+    timtu nyx6198.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 38593), start Tue 7/4 4:56
+    wangst nyx6157.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 47448), start Tue 7/4 5:00
+    wangst nyx6152.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 61292), start Tue 7/4 5:00
+    wangst nyx6163.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 96805), start Tue 7/4 5:05
+    wangst nyx6153.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 32035), start Tue 7/4 5:07
+    wangst nyx6151.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 49861), start Tue 7/4 5:07
+    wangst nyx6149.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 14296), start Tue 7/4 5:10
+    wangst nyx6176.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 6163), start Tue 7/4 5:11
+    wangst nyx6181.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 34158), start Tue 7/4 5:11
+    wangst nyx6165.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 13575), start Tue 7/4 5:18
+    wangst nyx6185.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 98795), start Tue 7/4 5:19
+    wangst nyx6180.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 87177), start Tue 7/4 5:19
+    wangst nyx6182.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 55049), start Tue 7/4 5:19
+    wangst nyx6156.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 99142), start Tue 7/4 5:21
+    timtu nyx6204.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 69069), start Tue 7/4 5:22
+    wangst nyx6171.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 77207), start Tue 7/4 5:22
+    timtu nyx6156.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 20107), start Tue 7/4 5:24
+    wangst nyx6162.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 2611), start Tue 7/4 5:25
+    wangst nyx6175.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 10238), start Tue 7/4 5:26
+    wangst nyx6179.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 43080), start Tue 7/4 5:29
+    timtu nyx6255.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 2705), start Tue 7/4 7:21
+    timtu nyx6186.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 1707), start Tue 7/4 7:25
+    timtu nyx6196.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 35432), start Tue 7/4 7:25
+    bpwong nyx6248.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 97412), start Tue 7/4 8:30
+    bpwong nyx6182.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 72899), start Tue 7/4 8:29
+    bpwong nyx6190.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 79738), start Tue 7/4 8:30
+    bpwong nyx6242.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 5534), start Tue 7/4 8:30
+    bpwong nyx6168.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 92451), start Tue 7/4 8:31
+    bpwong nyx6157.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 3358), start Tue 7/4 8:29
+    bpwong nyx6181.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 73622), start Tue 7/4 8:31
+    bpwong nyx6141.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 84985), start Tue 7/4 8:31
+    bpwong nyx6144.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 97674), start Tue 7/4 8:29
+    bpwong nyx6151.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 93864), start Tue 7/4 8:29
+    bpwong nyx6159.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 7068), start Tue 7/4 8:30
+    bpwong nyx6227.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 4277), start Tue 7/4 8:29
+    bpwong nyx6127.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 90367), start Tue 7/4 8:29
+    bpwong nyx6175.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 25996), start Tue 7/4 8:30
+    bpwong nyx6172.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 57343), start Tue 7/4 8:30
+    bpwong nyx6215.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 68492), start Tue 7/4 8:30
+    bpwong nyx6211.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 84556), start Tue 7/4 8:30
+    bpwong nyx6223.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 98681), start Tue 7/4 8:30
+    bpwong nyx6221.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 67463), start Tue 7/4 8:30
+    bpwong nyx6232.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 84311), start Tue 7/4 8:30
+    bpwong nyx6240.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 9738), start Tue 7/4 8:30
+    bpwong nyx6180.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 74595), start Tue 7/4 8:30
+    bpwong nyx6255.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 94403), start Tue 7/4 8:30
+    jiyuezhu nyx1070.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 63639), start Tue 7/4 8:30
+    bpwong nyx6156.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 90235), start Tue 7/4 8:31
+    bpwong nyx6162.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 55108), start Tue 7/4 8:31
+    bpwong nyx6165.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 85208), start Tue 7/4 8:31
+    bpwong nyx6247.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 47221), start Tue 7/4 8:31
+    bpwong nyx6186.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 11275), start Tue 7/4 8:31
+    bpwong nyx6192.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 20008), start Tue 7/4 8:31
+    bpwong nyx6194.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 42294), start Tue 7/4 8:31
+    bpwong nyx6199.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 13669), start Tue 7/4 8:31
+    bpwong nyx6237.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 70338), start Tue 7/4 8:31
+    bpwong nyx6234.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 42507), start Tue 7/4 8:31
+    bpwong nyx6238.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 67680), start Tue 7/4 8:31
+    bpwong nyx6244.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 61850), start Tue 7/4 8:31
+    bpwong nyx6174.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 54359), start Tue 7/4 8:31
+
+Users of SIMULINK:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Aerospace_Blockset:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Aerospace_Toolbox:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Bioinformatics_Toolbox:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Communication_Toolbox:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Video_and_Image_Blockset:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Control_Toolbox:  (Total of 10000 licenses issued;  Total of 32 licenses in use)
+
+  "Control_Toolbox" v37, vendor: MLM, expiry: 31-jan-2018
+  floating license
+
+    bpwong nyx6248.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 68582), start Tue 7/4 8:30
+    bpwong nyx6182.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 34608), start Tue 7/4 8:29
+    bpwong nyx6151.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 8849), start Tue 7/4 8:29
+    bpwong nyx6144.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 42782), start Tue 7/4 8:29
+    bpwong nyx6227.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 52817), start Tue 7/4 8:29
+    bpwong nyx6159.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 43601), start Tue 7/4 8:30
+    bpwong nyx6190.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 67997), start Tue 7/4 8:30
+    bpwong nyx6242.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 11328), start Tue 7/4 8:30
+    bpwong nyx6175.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 58745), start Tue 7/4 8:30
+    bpwong nyx6157.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 13840), start Tue 7/4 8:29
+    bpwong nyx6127.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 53768), start Tue 7/4 8:29
+    bpwong nyx6215.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 30300), start Tue 7/4 8:30
+    bpwong nyx6172.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 99564), start Tue 7/4 8:30
+    bpwong nyx6232.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 72573), start Tue 7/4 8:30
+    bpwong nyx6180.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 48087), start Tue 7/4 8:30
+    bpwong nyx6240.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 71166), start Tue 7/4 8:30
+    bpwong nyx6223.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 63584), start Tue 7/4 8:30
+    bpwong nyx6221.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 59048), start Tue 7/4 8:30
+    bpwong nyx6255.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 57923), start Tue 7/4 8:30
+    bpwong nyx6211.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 46401), start Tue 7/4 8:30
+    bpwong nyx6141.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 45182), start Tue 7/4 8:31
+    bpwong nyx6162.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 32757), start Tue 7/4 8:31
+    bpwong nyx6192.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 48847), start Tue 7/4 8:31
+    bpwong nyx6199.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 10620), start Tue 7/4 8:31
+    bpwong nyx6194.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 93109), start Tue 7/4 8:31
+    bpwong nyx6165.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 42937), start Tue 7/4 8:31
+    bpwong nyx6181.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 95864), start Tue 7/4 8:31
+    bpwong nyx6247.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 85076), start Tue 7/4 8:31
+    bpwong nyx6244.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 91065), start Tue 7/4 8:31
+    bpwong nyx6156.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 31195), start Tue 7/4 8:31
+    bpwong nyx6168.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 8136), start Tue 7/4 8:31
+    bpwong nyx6234.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 35798), start Tue 7/4 8:31
+
+Users of Curve_Fitting_Toolbox:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Signal_Blocks:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Data_Acq_Toolbox:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Database_Toolbox:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Econometrics_Toolbox:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of RTW_Embedded_Coder:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Financial_Toolbox:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Fixed_Point_Toolbox:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Fuzzy_Toolbox:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of GADS_Toolbox:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Image_Acquisition_Toolbox:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Image_Toolbox:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Instr_Control_Toolbox:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of MATLAB_Coder:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Compiler:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of MAP_Toolbox:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of MPC_Toolbox:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Neural_Network_Toolbox:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Optimization_Toolbox:  (Total of 10000 licenses issued;  Total of 28 licenses in use)
+
+  "Optimization_Toolbox" v37, vendor: MLM, expiry: 31-jan-2018
+  floating license
+
+    njchen nyx6158.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 19819), start Mon 7/3 17:50
+    wangst nyx6127.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 45780), start Tue 7/4 4:46
+    wangst nyx6132.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 35184), start Tue 7/4 4:48
+    wangst nyx6135.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 64956), start Tue 7/4 4:48
+    wangst nyx6145.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 64418), start Tue 7/4 4:49
+    wangst nyx6133.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 79599), start Tue 7/4 4:49
+    wangst nyx6150.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 77954), start Tue 7/4 4:49
+    wangst nyx6147.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 41920), start Tue 7/4 4:52
+    wangst nyx6148.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 4050), start Tue 7/4 4:55
+    wangst nyx6128.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 22302), start Tue 7/4 4:56
+    wangst nyx6140.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 71042), start Tue 7/4 4:56
+    wangst nyx6157.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 97703), start Tue 7/4 5:00
+    wangst nyx6152.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 27473), start Tue 7/4 5:00
+    wangst nyx6163.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 38357), start Tue 7/4 5:06
+    wangst nyx6153.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 76198), start Tue 7/4 5:07
+    wangst nyx6151.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 28571), start Tue 7/4 5:07
+    wangst nyx6149.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 75592), start Tue 7/4 5:10
+    wangst nyx6176.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 5203), start Tue 7/4 5:11
+    wangst nyx6181.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 95254), start Tue 7/4 5:11
+    wangst nyx6165.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 6477), start Tue 7/4 5:18
+    wangst nyx6185.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 14471), start Tue 7/4 5:19
+    wangst nyx6180.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 46144), start Tue 7/4 5:20
+    wangst nyx6182.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 28304), start Tue 7/4 5:20
+    wangst nyx6156.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 77084), start Tue 7/4 5:21
+    wangst nyx6171.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 54629), start Tue 7/4 5:22
+    wangst nyx6162.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 72084), start Tue 7/4 5:25
+    wangst nyx6175.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 35589), start Tue 7/4 5:27
+    wangst nyx6179.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 61341), start Tue 7/4 5:29
+
+Users of Distrib_Computing_Toolbox:  (Total of 10000 licenses issued;  Total of 103 licenses in use)
+
+  "Distrib_Computing_Toolbox" v37, vendor: MLM, expiry: 31-jan-2018
+  floating license
+
+    jiyuezhu nyx1069.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 94094), start Sun 7/2 21:43
+    jiahuagu nyx6092.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 90547), start Mon 6/19 11:39
+    jiyuezhu nyx1071.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 8041), start Sun 7/2 21:28
+    jiahuagu nyx6127.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 64637), start Tue 6/27 3:08
+    chrono nyx6252.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 43712), start Wed 6/28 10:36
+    jiahuagu nyx6224.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 38716), start Thu 6/29 16:02
+    anwebha nyx5989.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 45947), start Thu 6/29 16:44
+    jiyuezhu nyx1068.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 7245), start Sun 7/2 23:45
+    jiahuagu nyx6221.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 95717), start Fri 6/30 8:05
+    timtu nyx6166.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 69133), start Mon 7/3 11:32
+    jiahuagu nyx6132.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 94663), start Sun 7/2 8:24
+    amandarg nyx6211.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 46960), start Sun 7/2 21:54
+    najariac nyx5234.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 11554), start Mon 7/3 10:53
+    najariac nyx5230.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 41870), start Mon 7/3 10:53
+    najariac nyx5231.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 6841), start Mon 7/3 10:53
+    najariac nyx5232.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 29945), start Mon 7/3 10:53
+    najariac nyx5233.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 66542), start Mon 7/3 10:53
+    najariac nyx5236.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 86817), start Mon 7/3 10:53
+    najariac nyx5235.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 26826), start Mon 7/3 10:53
+    thuanhsi nyx6184.arc-ts.umich.edu /dev/pts/1 (v35) (flux-license1.miserver.it.umich.edu/1709 27950), start Mon 7/3 11:19
+    najariac nyx5578.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 78460), start Mon 7/3 11:37
+    najariac nyx5577.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 40346), start Mon 7/3 12:20
+    njchen nyx6158.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 71332), start Mon 7/3 17:50
+    timtu nyx6224.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 483), start Tue 7/4 2:10
+    timtu nyx6216.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 358), start Tue 7/4 2:19
+    timtu nyx6163.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 92060), start Tue 7/4 3:09
+    timtu nyx6155.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 74184), start Tue 7/4 4:43
+    timtu nyx6139.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 93221), start Tue 7/4 3:03
+    timtu nyx6220.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 66169), start Tue 7/4 4:04
+    timtu nyx6150.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 90970), start Tue 7/4 4:10
+    timtu nyx6140.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 66654), start Tue 7/4 4:25
+    timtu nyx6165.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 60072), start Tue 7/4 4:26
+    timtu nyx6152.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 56055), start Tue 7/4 4:33
+    wangst nyx6127.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 4996), start Tue 7/4 4:46
+    wangst nyx6132.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 95575), start Tue 7/4 4:47
+    wangst nyx6135.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 53595), start Tue 7/4 4:48
+    wangst nyx6145.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 31715), start Tue 7/4 4:49
+    wangst nyx6133.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 40643), start Tue 7/4 4:49
+    wangst nyx6150.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 65264), start Tue 7/4 4:49
+    wangst nyx6147.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 12372), start Tue 7/4 4:51
+    wangst nyx6148.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 27748), start Tue 7/4 4:54
+    wangst nyx6128.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 75753), start Tue 7/4 4:56
+    timtu nyx6198.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 58193), start Tue 7/4 4:56
+    wangst nyx6140.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 32256), start Tue 7/4 4:56
+    wangst nyx6157.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 41639), start Tue 7/4 5:00
+    wangst nyx6152.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 41779), start Tue 7/4 5:00
+    wangst nyx6163.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 25811), start Tue 7/4 5:06
+    wangst nyx6153.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 65066), start Tue 7/4 5:07
+    wangst nyx6151.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 62809), start Tue 7/4 5:07
+    wangst nyx6149.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 45557), start Tue 7/4 5:10
+    wangst nyx6176.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 39141), start Tue 7/4 5:11
+    wangst nyx6181.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 3558), start Tue 7/4 5:11
+    wangst nyx6165.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 56724), start Tue 7/4 5:18
+    wangst nyx6185.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 45082), start Tue 7/4 5:19
+    wangst nyx6180.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 55949), start Tue 7/4 5:19
+    wangst nyx6182.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 73808), start Tue 7/4 5:19
+    timtu nyx6204.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 4553), start Tue 7/4 5:22
+    wangst nyx6156.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 53060), start Tue 7/4 5:21
+    wangst nyx6171.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 49147), start Tue 7/4 5:22
+    timtu nyx6156.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 21307), start Tue 7/4 5:24
+    wangst nyx6162.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 9270), start Tue 7/4 5:25
+    wangst nyx6175.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 96437), start Tue 7/4 5:27
+    wangst nyx6179.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 32533), start Tue 7/4 5:29
+    timtu nyx6255.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 64014), start Tue 7/4 7:21
+    timtu nyx6186.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 70112), start Tue 7/4 7:25
+    timtu nyx6196.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 63802), start Tue 7/4 7:25
+    bpwong nyx6248.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 91916), start Tue 7/4 8:30
+    bpwong nyx6182.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 38903), start Tue 7/4 8:29
+    bpwong nyx6151.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 62350), start Tue 7/4 8:29
+    bpwong nyx6144.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 31249), start Tue 7/4 8:29
+    bpwong nyx6227.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 70624), start Tue 7/4 8:29
+    bpwong nyx6159.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 79493), start Tue 7/4 8:30
+    bpwong nyx6190.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 66962), start Tue 7/4 8:30
+    bpwong nyx6242.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 43438), start Tue 7/4 8:30
+    bpwong nyx6181.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 89616), start Tue 7/4 8:31
+    bpwong nyx6175.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 29734), start Tue 7/4 8:30
+    bpwong nyx6168.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 77843), start Tue 7/4 8:31
+    bpwong nyx6157.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 78394), start Tue 7/4 8:29
+    bpwong nyx6127.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 85523), start Tue 7/4 8:29
+    bpwong nyx6172.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 36273), start Tue 7/4 8:30
+    bpwong nyx6223.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 22812), start Tue 7/4 8:30
+    bpwong nyx6215.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 44486), start Tue 7/4 8:30
+    bpwong nyx6232.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 77707), start Tue 7/4 8:30
+    bpwong nyx6240.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 44553), start Tue 7/4 8:30
+    bpwong nyx6180.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 55491), start Tue 7/4 8:30
+    bpwong nyx6221.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 46093), start Tue 7/4 8:30
+    jiyuezhu nyx1070.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 56909), start Tue 7/4 8:30
+    bpwong nyx6255.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 39294), start Tue 7/4 8:30
+    bpwong nyx6211.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 52197), start Tue 7/4 8:30
+    bpwong nyx6141.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 14643), start Tue 7/4 8:31
+    bpwong nyx6162.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 44096), start Tue 7/4 8:31
+    bpwong nyx6192.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 48389), start Tue 7/4 8:31
+    bpwong nyx6165.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 98268), start Tue 7/4 8:31
+    bpwong nyx6199.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 72991), start Tue 7/4 8:31
+    bpwong nyx6194.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 68101), start Tue 7/4 8:31
+    bpwong nyx6156.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 87982), start Tue 7/4 8:31
+    bpwong nyx6247.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 25641), start Tue 7/4 8:31
+    bpwong nyx6244.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 22007), start Tue 7/4 8:31
+    bpwong nyx6237.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 89752), start Tue 7/4 8:31
+    bpwong nyx6234.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 66824), start Tue 7/4 8:31
+    bpwong nyx6186.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 38227), start Tue 7/4 8:31
+    bpwong nyx6238.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 74829), start Tue 7/4 8:31
+    bpwong nyx6174.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 44294), start Tue 7/4 8:31
+
+Users of PDE_Toolbox:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Phased_Array_System_Toolbox:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of RF_Blockset:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of RF_Toolbox:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Robust_Toolbox:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Signal_Toolbox:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of SimBiology:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of SimEvents:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of SimElectronics:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of SimMechanics:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Power_System_Blocks:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Simscape:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Virtual_Reality_Toolbox:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Real-Time_Workshop:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Simulink_Control_Design:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Real-Time_Win_Target:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of XPC_Target:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Stateflow:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Statistics_Toolbox:  (Total of 10000 licenses issued;  Total of 57 licenses in use)
+
+  "Statistics_Toolbox" v37, vendor: MLM, expiry: 31-jan-2018
+  floating license
+
+    jiyuezhu nyx1069.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 4659), start Sun 7/2 21:43
+    jiyuezhu nyx1071.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 2160), start Sun 7/2 21:29
+    jiyuezhu nyx1068.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 75055), start Sun 7/2 23:45
+    timtu nyx6166.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 71450), start Mon 7/3 11:32
+    timtu nyx6224.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 533), start Tue 7/4 2:11
+    timtu nyx6216.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 59151), start Tue 7/4 2:19
+    timtu nyx6163.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 54269), start Tue 7/4 3:09
+    timtu nyx6155.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 60772), start Tue 7/4 4:43
+    timtu nyx6139.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 42344), start Tue 7/4 3:03
+    timtu nyx6220.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 76371), start Tue 7/4 4:04
+    timtu nyx6150.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 62700), start Tue 7/4 4:11
+    timtu nyx6140.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 80460), start Tue 7/4 4:25
+    timtu nyx6165.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 65479), start Tue 7/4 4:27
+    timtu nyx6152.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 57074), start Tue 7/4 4:34
+    timtu nyx6198.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 84027), start Tue 7/4 4:56
+    timtu nyx6204.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 34847), start Tue 7/4 5:23
+    timtu nyx6156.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 84136), start Tue 7/4 5:24
+    timtu nyx6255.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 55350), start Tue 7/4 7:21
+    timtu nyx6186.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 37089), start Tue 7/4 7:25
+    timtu nyx6196.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 13008), start Tue 7/4 7:25
+    bpwong nyx6248.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 20517), start Tue 7/4 8:30
+    bpwong nyx6182.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 59415), start Tue 7/4 8:29
+    bpwong nyx6151.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 97117), start Tue 7/4 8:29
+    bpwong nyx6144.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 20810), start Tue 7/4 8:29
+    bpwong nyx6227.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 30518), start Tue 7/4 8:29
+    bpwong nyx6159.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 59728), start Tue 7/4 8:30
+    bpwong nyx6190.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 94217), start Tue 7/4 8:30
+    bpwong nyx6242.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 13929), start Tue 7/4 8:30
+    bpwong nyx6175.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 68079), start Tue 7/4 8:30
+    bpwong nyx6168.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 55571), start Tue 7/4 8:31
+    bpwong nyx6157.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 85901), start Tue 7/4 8:29
+    bpwong nyx6127.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 81341), start Tue 7/4 8:29
+    bpwong nyx6215.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 27075), start Tue 7/4 8:30
+    bpwong nyx6172.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 31471), start Tue 7/4 8:30
+    bpwong nyx6232.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 55242), start Tue 7/4 8:30
+    bpwong nyx6223.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 95477), start Tue 7/4 8:30
+    bpwong nyx6240.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 38188), start Tue 7/4 8:30
+    bpwong nyx6180.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 53692), start Tue 7/4 8:30
+    bpwong nyx6221.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 22142), start Tue 7/4 8:30
+    jiyuezhu nyx1070.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 7626), start Tue 7/4 8:30
+    bpwong nyx6255.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 84826), start Tue 7/4 8:30
+    bpwong nyx6211.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 5992), start Tue 7/4 8:30
+    bpwong nyx6141.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 11881), start Tue 7/4 8:31
+    bpwong nyx6162.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 33253), start Tue 7/4 8:31
+    bpwong nyx6192.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 30032), start Tue 7/4 8:31
+    bpwong nyx6194.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 87807), start Tue 7/4 8:31
+    bpwong nyx6199.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 40081), start Tue 7/4 8:31
+    bpwong nyx6165.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 3768), start Tue 7/4 8:31
+    bpwong nyx6156.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 73469), start Tue 7/4 8:31
+    bpwong nyx6247.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 7496), start Tue 7/4 8:31
+    bpwong nyx6244.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 37657), start Tue 7/4 8:31
+    bpwong nyx6181.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 59285), start Tue 7/4 8:31
+    bpwong nyx6234.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 6223), start Tue 7/4 8:31
+    bpwong nyx6237.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 22259), start Tue 7/4 8:31
+    bpwong nyx6186.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 1054), start Tue 7/4 8:31
+    bpwong nyx6238.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 51950), start Tue 7/4 8:31
+    bpwong nyx6174.arc-ts.umich.edu /dev/tty (v35) (flux-license1.miserver.it.umich.edu/1709 34280), start Tue 7/4 8:31
+
+Users of Symbolic_Toolbox:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Identification_Toolbox:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+Users of Wavelet_Toolbox:  (Total of 10000 licenses issued;  Total of 0 licenses in use)
+
+
