@@ -11,6 +11,20 @@ timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
 # setting verbose to yes will cause usernames to be printed in the report
 verbose = 'yes'
 
+##### Sending to graphite initialization
+
+# where to send it
+carbon_url = 'graphite.arc-ts.umich.edu'
+carbon_port = 2003
+
+# create time stamp for current time
+graphite_time = datetime.datetime.now().strftime('%s')
+
+# initialize empty message list
+messages = []
+
+##### end graphite initialization
+
 # we want to use defaultdicts so we can add to a nonexistent key
 license_count = defaultdict(int)
 license_total = defaultdict(int)
@@ -56,6 +70,12 @@ for daemon in sorted(license_daemons.keys()):
     # create text output
     # header for each license daemon
     print("{} licenses {}".format(daemon, timestamp))
+
+    ##  Change this to run through only one set of keys because we need to construct
+    ##  the list to send to graphite.  Maybe that will be creating a new dict.
+    ##  Need to check that the list of keys in both dicts are equal length and
+    ##  contain the same entries.
+    ##  See test.py for the rest of the graphite code.
 
     # header for the licenses used
     print("licenses used count")
